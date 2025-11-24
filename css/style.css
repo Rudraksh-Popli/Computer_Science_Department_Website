@@ -238,4 +238,5 @@ button:active {
 
 form {
     margin-bottom: 10px;
+    clear: both;
 }
