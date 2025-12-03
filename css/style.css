@@ -130,7 +130,7 @@ textarea {
 }
 
 button {
-    margin-top: 10px;
+    margin-top: 4px;
     padding: 5px 10px;
     background: #0044cc;
     color: #fff;
@@ -234,9 +234,4 @@ button:active {
 .fullscreen .close:hover {
     color: red;
     transform: scale(1.2);
-}
-
-form {
-    margin-bottom: 10px;
-    clear: both;
 }
